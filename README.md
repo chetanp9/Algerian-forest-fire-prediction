@@ -26,7 +26,7 @@ The dataset is split into training and testing sets for model validation.
    - Visualizing trends and correlations between environmental factors.
 
 3. **Model Building**:
-   - Applied machine learning models, including decision trees, random forest, and logistic regression.
+   - Applied machine learning models logistic regression.
    - Trained models to predict fire occurrences and severity based on the environmental data.
 
 4. **Model Evaluation**: 
